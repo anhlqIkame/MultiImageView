@@ -1,6 +1,11 @@
 # MultiImageView
 Create Chat Head Image Like FaceBook Messenger
 
+
+<img src= "https://github.com/anhlqIkame/MultiImageView/blob/master/Screenshot_2018-05-22-14-23-55-994_com.ikame.junittest.png" width="350" height="650">
+</img>
+
+
 - Cách khởi tạo: 
 
 Cách 1: Sử dụng trong file XML:
